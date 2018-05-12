@@ -1,0 +1,26 @@
+_repo: Andreas--The-Legend-of-St.-Andrew_15225
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Root, Robert K. (Robert Kilburn)
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '6255'
+    url: http://www.gutenberg.org/2009/agents/6255
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Andrew, Apostle, Saint -- Legends'
+title: 'Andreas: The Legend of St. Andrew'
+url: http://www.gutenberg.org/ebooks/15225
